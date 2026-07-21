@@ -27,7 +27,8 @@ resultado esperado: Un commit con un cambio de na linea por cabeza.
 
 - Hola, soy María, quiero aprender cómo funciona la IA en profundidad y cómo poder aplicarla en los proyectos
 - Hola, soy Mateo, quiero entender el funcionamiento de la IA para conocer sus ventajas y desventajas, asi como aprender la ingenieria de un producto basado en AI
-  
+ - Hola, soy Maia. Me interesa profundizar en la inteligencia artificial generativa, conocer sus aplicaciones y comprender mejor cómo se está desarrollando y evolucionando. También me gustaría aprender cómo puedo aplicarla en proyectos concretos y en mi día a día para mejorar procesos.
+   
 ## Nuestro objetivo
 
 todo-002: Una PR con el objetivo de este grupo en esta formación. El resultado esperado es 
